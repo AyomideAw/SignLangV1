@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>thanks.bda575c2-1a62-11f0-a7ec-86fb74713110.jpg</filename>
+	<path>/Users/ayomide_aw/Desktop/Projects/SignLangV1/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/thanks.bda575c2-1a62-11f0-a7ec-86fb74713110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thank You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>574</xmin>
+			<ymin>493</ymin>
+			<xmax>1642</xmax>
+			<ymax>1043</ymax>
+		</bndbox>
+	</object>
+</annotation>
