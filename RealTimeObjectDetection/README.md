@@ -86,11 +86,8 @@ RealTimeObjectDetection/
 │   ├── workspace/
 
 │       ├── annotations/
-
 │       ├── images/
-
 │       ├── models/
-
 │       └── pre-trained-models/
 
 ├── labelImg/
