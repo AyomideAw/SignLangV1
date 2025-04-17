@@ -76,15 +76,25 @@ Annotation Format: Pascal VOC XML
 # 📂 Project Structure
 
 RealTimeObjectDetection/
+
 ├── Tensorflow/
+
 │   ├── models/
+
 │   ├── scripts/
+
 │   ├── workspace/
+
 │       ├── annotations/
+
 │       ├── images/
+
 │       ├── models/
+
 │       └── pre-trained-models/
+
 ├── labelImg/
+
 ├── generate_tfrecord.py
 
 # ✨ Contributions
