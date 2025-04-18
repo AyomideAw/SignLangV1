@@ -1,6 +1,6 @@
 # Sign Language Translator
 
-A real-time web application that translates sign language gestures into readable text using a deep learning model. Built using TensorFlow's Object Detection API, this project aims to bridge the communication gap for deaf and hard-of-hearing individuals by interpreting both static and dynamic sign gestures through a webcam or video upload.
+A real-time web application that translates sign language gestures <!--into readable text--> using a deep learning model. Built using TensorFlow's Object Detection API, this project aims to bridge the communication gap for deaf and hard-of-hearing individuals by interpreting both static and dynamic sign gestures through a webcam or video upload.
 
 # 📦 Tech Stack
 
